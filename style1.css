@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color:papayawhip;
+    height: 150px;
+
+}
+h1{
+    color:salmon;
+    font-style: italic;
+    font-size: 200%;
+}
+.top {
+    color:slateblue;
+    font-style: italic;
+    font-size:300%;
+}
+li{
+    display: inline;
+   font-size:x-large;
+   font-family:  Roboto ;
+}
